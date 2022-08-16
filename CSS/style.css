@@ -1,0 +1,155 @@
+/* TITLE SECTION */
+
+body {
+    font-family:' Montserrat';
+   
+}
+
+
+img{
+    width:200px;
+}
+
+
+
+
+
+#title {
+
+    background-color:rgba(29, 32, 192, 0.76);
+    color:white;
+   
+    
+  
+        
+
+}
+.container-fluid {
+    padding:3% 15% 15%;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Montserrat-Bold";
+}
+
+h3 {
+    font-size: 1.5rem;
+   
+    font-weight: bold;
+}
+p {
+    color:rgba(29, 32, 192, 0.76);
+}
+
+h2 {
+   
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* .HEADING */
+.big-heading {
+    font-family: 'Montserrat-Black';
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+}
+
+
+/* navigation bar */
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: Ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+ 
+}
+.nav-item {
+    padding: 0 18px;
+
+}
+
+
+
+
+
+
+
+
+
+/* SECTION */
+
+#features {
+    padding:7% 15%;
+    background-color:white;
+    position: relative;
+
+    
+ 
+}
+
+
+.icon{
+    
+    color:rgb(99, 121, 242);
+    margin-bottom: 1rem;
+}
+
+
+.icon:hover {
+    color:rgb(19, 1, 1);
+}
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+} 
+
+
+
+
+
+
+
+
+/* CALL TO ACTION */
+
+
+
+#cta {
+    background-color:rgba(29, 32, 192, 0.76);
+    text-align: center;
+    padding:15% ;
+   
+}
+.text {
+    color: white;
+    font-family:'Montserrat-Black';
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+/* Footer */
+
+#footer {
+    background-color: rgb(3, 10, 50);
+    text-align: center;
+    padding :7% 15%;
+    
+    
+}
+.fa-brands {
+    padding:  10px 20px;
+}
+.fa-solid {
+    padding:  10px 20px;
+
+
+}
+.fa-solid,.fa-brands:hover {
+    color:rgb(42, 57, 117);
+   
+
+}
